@@ -1,12 +1,13 @@
-package modul_1.latihan;
+package praktikum_1.latihan;
 
-public class ganjilfor {
+public class ganjildowhile {
     public static void main(String[] args) {
-        for (int i = 1; i <= 20; i++) {
+        int i = 1;
+        do {
             if (i % 2 != 0) {
                 System.out.print(i + " ");
             }
-        }
+            i++;
+        } while (i <= 20);
     }
 }
-
