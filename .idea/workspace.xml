@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36ba7fde-9114-4360-9564-233bc228a5fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/laporan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_1/HelloWorld.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3A3XDyLuFZ0D55kbtZgnqiyTxmc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GenapGanjil.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.LuasPersegiPanjang.executor": "Run",
+    "Application.datadiri.executor": "Run",
+    "Application.faktorial.executor": "Run",
+    "Application.ganjildowhile.executor": "Run",
+    "Application.ganjilfor.executor": "Run",
+    "Application.ganjilwhile.executor": "Run",
+    "Application.operator.executor": "Run",
+    "Application.percabangan.executor": "Run",
+    "Application.perulangan.executor": "Run",
+    "Application.prima.executor": "Run",
+    "Application.segitiga.executor": "Run",
+    "Application.variable.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Administrator/IdeaProjects/2024573010042_design_pattern/ti_design_pattern/src/praktikum_1/laporan/gambar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\2024573010042_design_pattern\ti_design_pattern\src\praktikum_1\laporan\gambar" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\2024573010042_design_pattern\ti_design_pattern\src\praktikum_1\laporan" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.segitiga">
+    <configuration name="faktorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="praktikum_1.faktorial" />
+      <module name="ti_design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praktikum_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ganjildowhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="praktikum_1.latihan.ganjildowhile" />
+      <module name="ti_design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praktikum_1.latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ganjilwhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="praktikum_1.latihan.ganjilwhile" />
+      <module name="ti_design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praktikum_1.latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prima" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="praktikum_1.prima" />
+      <module name="ti_design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praktikum_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="segitiga" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="praktikum_1.segitiga" />
+      <module name="ti_design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praktikum_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.segitiga" />
+        <item itemvalue="Application.prima" />
+        <item itemvalue="Application.faktorial" />
+        <item itemvalue="Application.ganjildowhile" />
+        <item itemvalue="Application.ganjilwhile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36ba7fde-9114-4360-9564-233bc228a5fd" name="Changes" comment="" />
+      <created>1771822112615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771822112615</updated>
+      <workItem from="1771822124178" duration="24000" />
+      <workItem from="1771859448089" duration="24000" />
+      <workItem from="1772420047079" duration="4736000" />
+      <workItem from="1772433305082" duration="4439000" />
+      <workItem from="1772979747698" duration="4590000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
