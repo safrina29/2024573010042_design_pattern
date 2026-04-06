@@ -5,24 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36ba7fde-9114-4360-9564-233bc228a5fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/gambar/gambar9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_1/laporan/laporan.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_1/latihan/Buku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_1/latihan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_1/mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_1/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_2/Mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_2/latihan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_2/latihan/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_2/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_3/komposisi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_3/komposisi/Mesin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_3/komposisi/Mobil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_3/latihan/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_3/latihan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_3/latihan/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_3/latihan/RAM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_3/pewarisan/Kendaraan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_3/pewarisan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_3/pewarisan/Mobil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_4/overloading/Kalkulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_4/overloading/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_4/overloading/latihan/doubletipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_4/overloading/latihan/inttipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_4/overriding/Anjing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_4/overriding/Hewan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_4/overriding/Kucing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_4/overriding/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_4/overriding/latihan/BangunDatar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_4/overriding/latihan/Lingkaran.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_4/overriding/latihan/Persegi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_5/abstrak/Anjing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_5/abstrak/Hewan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_5/abstrak/Kucing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_5/abstrak/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_5/antarmuka/Bergerak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_5/antarmuka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_5/antarmuka/Mobil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_5/antarmuka/Pesawat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_5/latihan/Berenang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_5/latihan/HewanAir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_5/latihan/Ikan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_5/latihan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_6/KonferensiApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_6/Pesanan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_6/Tiket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_6/TiketReguler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_3/bagian_6/TiketVIP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_1/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_1/laporan/laporan.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_1/laporan/laporan.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +66,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -50,39 +85,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.GenapGanjil.executor": "Run",
-    "Application.HelloWorld.executor": "Run",
-    "Application.LuasPersegiPanjang.executor": "Run",
-    "Application.datadiri.executor": "Run",
-    "Application.faktorial.executor": "Run",
-    "Application.ganjildowhile.executor": "Run",
-    "Application.ganjilfor.executor": "Run",
-    "Application.ganjilwhile.executor": "Run",
-    "Application.operator.executor": "Run",
-    "Application.percabangan.executor": "Run",
-    "Application.perulangan.executor": "Run",
-    "Application.prima.executor": "Run",
-    "Application.segitiga.executor": "Run",
-    "Application.variable.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Administrator/IdeaProjects/2024573010042_design_pattern/ti_design_pattern/src/praktikum_1/laporan/gambar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.GenapGanjil.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KonferensiApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LuasPersegiPanjang.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.datadiri.executor&quot;: &quot;Run&quot;,
+    &quot;Application.faktorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ganjildowhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ganjilfor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ganjilwhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.percabangan.executor&quot;: &quot;Run&quot;,
+    &quot;Application.perulangan.executor&quot;: &quot;Run&quot;,
+    &quot;Application.prima.executor&quot;: &quot;Run&quot;,
+    &quot;Application.segitiga.executor&quot;: &quot;Run&quot;,
+    &quot;Application.variable.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/IdeaProjects/2024573010042_design_pattern/ti_design_pattern/src/praktikum_1/laporan/gambar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\IdeaProjects\2024573010042_design_pattern\ti_design_pattern\src\praktikum_1\laporan\gambar" />
@@ -91,39 +128,39 @@
       <recent name="C:\Users\Administrator\IdeaProjects\2024573010042_design_pattern\ti_design_pattern\src\praktikum_1\laporan" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.segitiga">
+  <component name="RunManager" selected="Application.KonferensiApp">
+    <configuration name="KonferensiApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="praktikum_3.bagian_6.KonferensiApp" />
+      <module name="ti_design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praktikum_3.bagian_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="praktikum_3.bagian_4.overriding.Main" />
+      <module name="ti_design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praktikum_3.bagian_4.overriding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="faktorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="praktikum_1.faktorial" />
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="praktikum_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ganjildowhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="praktikum_1.latihan.ganjildowhile" />
-      <module name="ti_design_pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="praktikum_1.latihan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ganjilwhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="praktikum_1.latihan.ganjilwhile" />
-      <module name="ti_design_pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="praktikum_1.latihan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KonferensiApp" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.segitiga" />
         <item itemvalue="Application.prima" />
         <item itemvalue="Application.faktorial" />
-        <item itemvalue="Application.ganjildowhile" />
-        <item itemvalue="Application.ganjilwhile" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +208,6 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
       </set>
     </attachedChunks>
   </component>
@@ -186,7 +222,11 @@
       <workItem from="1771859448089" duration="24000" />
       <workItem from="1772420047079" duration="4736000" />
       <workItem from="1772433305082" duration="4439000" />
-      <workItem from="1772979747698" duration="4590000" />
+      <workItem from="1772979747698" duration="5378000" />
+      <workItem from="1772985450101" duration="481000" />
+      <workItem from="1773025514718" duration="6950000" />
+      <workItem from="1774516328293" duration="89000" />
+      <workItem from="1774516432984" duration="911000" />
     </task>
     <servers />
   </component>

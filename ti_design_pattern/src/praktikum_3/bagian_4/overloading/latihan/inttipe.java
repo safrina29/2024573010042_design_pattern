@@ -1,0 +1,12 @@
+package praktikum_3.bagian_4.overloading.latihan;
+
+class inttipe {
+
+    int tambah(int a, int b) {
+        return a + b;
+    }
+
+    int tambah(int a, int b, int c) {
+        return a + b + c;
+    }
+}
